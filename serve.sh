@@ -1,0 +1,1 @@
+bentoml serve /Users/quandv6/bentoml/repository/IrisClassifier/0.0.3 --port 5005
